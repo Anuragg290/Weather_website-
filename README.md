@@ -27,7 +27,7 @@ This app uses the **OpenWeatherMap API** to fetch weather data. To use the appli
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/weather_website.git
+   git clone https://github.com/Anuragg290/weather_website.git
    cd weather_website
    ```
 2. **Open the project folder** and edit `scripts.js` to add your OpenWeather API key.  
